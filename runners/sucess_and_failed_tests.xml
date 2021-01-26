@@ -1,0 +1,14 @@
+<suite name = "success and failed tests">
+    <test name = "all the tests">
+    <groups>
+        <run>
+            <include name = "successtests"></include>
+            <include name = "failedtests"></include>
+        </run>
+    </groups>
+
+    <classes>
+        <class name = "Practico12Tests.groupTests"></class>
+    </classes>
+    </test>
+</suite>

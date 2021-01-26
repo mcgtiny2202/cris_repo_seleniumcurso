@@ -1,0 +1,11 @@
+<suite name = "Ejercicio Git">
+    <test name = "Ejercicios testng">
+        <parameter name ="specific Tag" value = "h2">
+        </parameter>
+
+        <classes>
+            <class name = "Practico12Tests.Practico12Git"></class>
+            <class name = "Practico12Tests.spotifyTestWithParameters"></class>
+        </classes>
+    </test>
+</suite>

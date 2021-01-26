@@ -1,0 +1,9 @@
+<suite name = "Test suites">
+    <test name = "Ejercicios testng">
+        <classes>
+            <class name="Practico12Tests.testngSalesforce"></class>
+        </classes>
+    </test>
+</suite>
+
+
